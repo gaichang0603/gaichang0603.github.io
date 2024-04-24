@@ -25,4 +25,4 @@ int main(){
 }
 ```
 
-![logo](/../../%E6%A1%8C%E9%9D%A2/logo.png)
+![logo](/../gaichang0603.github.io/assets/blog_res/2024-04-24-hello-world.assets/logo.png)
