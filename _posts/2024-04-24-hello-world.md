@@ -17,7 +17,7 @@ typora-root-url: ../../tomstillcoding.github.io
 # 我的学校～ 
 
 
-这里可以放代码片段噢～
+代码片段～
 ```c++
 //代码片段
 int main(){
@@ -25,4 +25,4 @@ int main(){
 }
 ```
 
-![logo](/../gaichang0603.github.io/assets/blog_res/2024-04-24-hello-world.assets/logo.png)
+![logo](./../gaichang0603.github.io/assets/blog_res/2024-04-24-hello-world.assets/logo.png)
