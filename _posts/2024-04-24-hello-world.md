@@ -25,4 +25,4 @@ int main(){
 }
 ```
 
-![logo](./../gaichang0603.github.io/assets/blog_res/2024-04-24-hello-world.assets/logo.png)
+![logo](/assets/blog_res/2024-04-24-hello-world.assets/logo.png)
